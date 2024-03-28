@@ -36,3 +36,5 @@ The analysis aims to discover interesting facts and recognize patterns among the
 3. Majority of the top songs are in Major mode, means most top songs have lighter, brighter, cheerier sounds.
 4. Most of the top 2023 tracks are release on months of January, May, and June. Month of May and June are when shool is out and people is focused on summer, hence great time to release light, upbeat and good-feels songs perfect in the summer [[1]](https://soundcamps.com/blog/best-time-to-release-music/). This links back to **findings #3** where most songs are in Major mode. For January, it is least competitive month [[1]](https://soundcamps.com/blog/best-time-to-release-music/).
 5. A track is likely to have more streams if it is present in many playlist. A track not known globally has a possibility to gain more streams than tracks that are known globally.
+
+Head to this [file](https://github.com/jonathannnpstl/top-spotify-songs-2023-EDA/blob/main/top_spotify_songs_eda.ipynb) for a more comprehensive discussion on the findings.
