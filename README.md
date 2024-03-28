@@ -21,12 +21,12 @@ Spotify is a top music streaming service offering millions of songs, podcasts, a
 
 ## Problem statement
 
-The analysis aims to discover interesting facts and recognize patterns among the top songs that influenced their sucess. Exploring the dataset seeks to answer the questions, including but not limited to:
+The analysis aims to discover interesting facts and recognize patterns among the top songs that influenced their success. Exploring the dataset seeks to answer the questions, including but not limited to:
 
-1. Which track was the most streamed song in 2023?
+1. Which track was the most streamed song on Spotify in 2023?
 2. Who garnered the most numbers of streams from across performed tracks?
 3. What mode (Major or Minor) were the majority of the top songs in 2023?
-4. What months most of top songs were released?
+4. Most of the top songs were released on what months?
 5. What is the relationship of streams to the number of times a track is in a playlist and number of times a track has entered to different charts?
 
 ## Findings
